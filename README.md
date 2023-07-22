@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://www.notion.so/b9a32663a9614569bad7f950c752ba49?pvs=4" target="_blank"><img src="https://img.shields.io/badge/노션?style=for-the-badge&logo=notion&logoColor=#000000"/></a>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumin9918&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumin9918&show_icons=true&theme=graywhite)
