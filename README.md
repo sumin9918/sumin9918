@@ -49,9 +49,9 @@ Here are some ideas to get you started:
   <!--TypeScript-->
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 
-  <h2>💻 Projects</h2>
+  <!-- <h2>💻 Projects</h2> 
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumin9918&repo=FENB_SHOPPING_MALL_EXTRA)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/TEAM-FENB/FENB_SHOPPING_MALL_EXTRA)https://github.com/TEAM-FENB/FENB_SHOPPING_MALL_EXTRA)
+  <!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sumin9918&repo=FENB_SHOPPING_MALL_EXTRA)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/TEAM-FENB/FENB_SHOPPING_MALL_EXTRA)https://github.com/TEAM-FENB/FENB_SHOPPING_MALL_EXTRA)-->
   
 </div>
 
